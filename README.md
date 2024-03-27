@@ -1,13 +1,14 @@
 # Customers-Clustering
 
-Customer Segmentation using K-means clustering & PCA
-1. Objectives
-Clustering customers that behave the same
 
-Investigate the common traits/behaviors in each Cluster
+## **1. Objectives:**
+- Clustering customers that behave the same
 
-Deploy the results in Power BI for the business to use
+- Investigate the common traits/behaviors in each Cluster
 
-Automate all this process for future data
+- Deploy the results in Power BI for the business to use
 
-2. Work Sequence: Excel -> SQL Server-> Python -> SQL Server -> Power BI
+- Automate all this process for future data
+
+## **2. Work Sequence:** 
+Excel -> SQL Server-> Python -> SQL Server -> Power BI
